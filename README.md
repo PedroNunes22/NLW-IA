@@ -1,4 +1,4 @@
-# Resumo de Vídeo do YouTube Shorts usando Inteligência Artificial
+# Resumos de Vídeos do YouTube Shorts usando Inteligência Artificial
 ## Projeto da Rocketseat NLW
 Este projeto pega os vídeos do YouTube Shorts, converte-os do formato MP4 para MP3, transcreve o áudio do vídeo e, por fim, o resume.
 
